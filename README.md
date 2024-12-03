@@ -1,4 +1,4 @@
-# Generative AI Tools are Helping to Unlock the Mysteries of the Human Brain
+# The Allen Institute for Brain Science Uses Generative AI Tools to Unlock the Mysteries of the Human Brain
 
 ## Overview and Origin
 
