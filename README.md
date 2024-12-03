@@ -1,52 +1,40 @@
 # The Allen Institute for Brain Science Uses Generative AI Tools to Unlock the Mysteries of the Human Brain
 
 
-
-
 ## Overview and Origin
-
-
 
 
 [The Allen Institute](https://alleninstitute.org/) for Brain Science was founded in 2003 by Paul G. Allen and four employees with the goal of trying to understand the inner workings of the human brain along with the human immune system by mapping an entire mammalian brain.
 
 
-
-
 Paul G. Allen, being a philanthropist himself, launched the company with $100 million of his own resources and continued to gain support from the government like the National Science Foundation (NSF), National Institutes of Health (NIH) and other private donors through open calls and invitation.
-
-
 
 
 ## Business Activities
 
 
-
-
 The Allen Institute for Brain Science's hallmark project is the [Brain Knowldge Platform](https://portal.brain-map.org/atlases-and-data/bkp) (BKP), which is aimed to be the largest open-source database of brain cell data in the world. By leveraging the technology of Amazon Wed Services (AWS), the BKP will host the [Allen Brain Cell](https://portal.brain-map.org/atlases-and-data/bkp/abc-atlas) (ABC) Atlas which will be the first largest data set if its kind to standardize the massive datasets of structure and function of mammalian brains.
-
-
 
 
 Seen below is the a visualization of multimodal single cell data across the mammalian brain with the hopes to explore and analyze multiple whole-brain datasets simultaneously.
 
 
-
-
 <img src="./img/abc-atlas-icon.webp" alt="ABSAtlasIcon" width="35%"/>
 
 
-One of the biggest challenges of current research in neruoscience is the overwhelming complexity of the brain and vast amounts of data that isn't centralized or organzied in meaningful way. 
 
 
-The goal of the BKP and ABC Atlas is create a comprhensive knowdledge base to better diagnose and treat mental and neurological disorders and diseases such as Alzheimer's and Parkinson's disease which affects millions of people worldwide. These are two of the most common neurodegenerative diseases that could accelerate our understanding and treatments along with many other brain disorders.
+One of the biggest challenges of current research in neuroscience is the overwhelming complexity of the brain and vast amounts of data that isn't centralized or organized in meaningful way.
+
+
+The goal of the BKP and ABC Atlas is to create a comprehensive knowledge base to better diagnose and treat mental and neurological disorders and diseases such as Alzheimer's and Parkinson's disease which affects millions of people worldwide. These are two of the most common neurodegenerative diseases that could accelerate our understanding and treatments along with many other brain disorders.
+
+
 
 
 
 
 Unlike other projects the BKP and ABC Atlas proposes invaluable and accelerated multimodal characterization of brain cell types in the the following disciplines of study:
-
-
 
 
 * [Anatomy](https://portal.brain-map.org/anatomy)
@@ -87,20 +75,15 @@ A comprehensive list of tools can be seen [here](https://portal.brain-map.org/co
 ## Landscape
 
 
-The landscape of neuroscience for studying degenerative brain diseases and disorders is
-
-
-* What field is the company in?
+The landscape of neuroscience for studying degenerative brain diseases and disorders is still a vast unknown field with many interdisciplines. There are many other companies and organizations like the Allen Institute taking on the intimidating task of understanding the human brain like AC Immune, Biogen, Neutrope Inc and AXON Neuroscience just to name a few. Even though the term 'neuroscience' was coined in the 1960s, ancient civilizations has have made observations of the brain and nervous system as early as 6th century B.C. among Egyptian, Greek and Roman scholars. For example, ancient Egyptian physicals understood that injury to the spinal cord could result in paralysis and brain lesions affecting speech functions.
 
 
 
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+In the 20th century, the invention of the electron microscope and functional MRI have allowed greater insights into the brain and nervous system, emboldening the renaissance for research. In just the last 10 years of modern neuroscience, there have been several breakthroughs. Brain-computer interfaces (BCIs) are being developed by the [Brain Gate Project](https://www.braingate.org/) to decode movement from electrical signals int he motor cortex. BCIs are used to study visual signals as well as less tangible brain issues such as OCD, depression, addiction and other psychiatric disorders.
 
 
-
-
-* What are the other major companies in this field?
+Other breakthroughs in neurosciences include brain organoids which resemble mini brains those of preterm babies to understand development, neural implants to treat Parkinson's, deep learning to create complex AI models of neural processing, and many more.
 
 
 
@@ -108,24 +91,24 @@ The landscape of neuroscience for studying degenerative brain diseases and disor
 ## Results
 
 
+The Allen Institute has greatly impacted the neuroscience community by providing a vast, openly accessible database of brain cell connectivity through the ABC Atlas which has revealed over 3000 cell types and distinct features. It lays the groundwork a complete cell catalogue for future work and research.
 
 
-* What has been the business impact of this company so far?
+Though the ABC Atlas is probably the greatest contributing impact the Allen Institute has thus far, they have contributed to other areas of study like the aging immune system, the claustrum, a mysterious brain region, and building on the ExA-SPIM microscope which takes slices of mouse brain to view individual neurons at incredible resolution.
 
 
+Core metrics of measuring the success of the Allen Institute are not only the breakthroughs in neuroscience, but the amount of support and collaboration they have inspired through private donors and the use of the ABC Atlas. It has already been used by tens of thousands of people each month and with its start in 2003, it has received over $100 million in donations. Other companies like Neuralink, Jülich Research Centre and Omniscient Neurotechnology, do similar research in brain mapping and atlases but the Allen Institute is widely regarded the leading organization in comprehensive detailed cell type identification and connectivity maps. Coined as the 'Allen Impact,' the Allen Institute is widely celebrated among the neuroscience community as place of disciplined research and innovation.
 
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-
-
-
-* How is your company performing relative to competitors in the same field?
+> "Our research and data are empowering scientists to pursue bold solutions to the most pressing issues affecting humanity." - Rui Costa, D.V.M., Ph.D. President and Chief Executive Officer, Allen Institute
 
 
 
 
 ## Recommendations
+
+
+The use of ABC Atlas brain maps open up a world of possibilities and applications.
 
 
 
@@ -150,68 +133,30 @@ The landscape of neuroscience for studying degenerative brain diseases and disor
 
 
 
+
+
 ## Resources
-
-
 
 
 * https://www.youtube.com/watch?v=B3t0_Wc-Yq0
 
-
-
-
 * https://alleninstitute.org/allen20/#:~:text=In%202003%2C%20the%20Allen%20Institute,the%20world%20had%20never%20seen
-
-
-
 
 * https://alleninstitute.org/division/frontiers-group/open-calls-science-funding/#:~:text=Through%20funding%20from%20the%20Paul,traditional%20funders%20or%20by%20industry
 
-
-
-
 * https://portal.brain-map.org/atlases-and-data/bkp
 
-
-
-
 * https://portal.brain-map.org/atlases-and-data/bkp/abc-atlas
-
-
-
 
 * https://pmc.ncbi.nlm.nih.gov/articles/PMC6311900/#:~:text=Background-,Alzheimer's%20disease%20(AD)%20and%20Parkinson's%20disease%20(PD)%20are,other%20behavioral%20problems%20%5B6%5D.
 
 
 * https://news.weill.cornell.edu/news/2023/11/scientists-use-ai-generated-images-to-map-visual-functions-in-the-brain
 
+* https://www.psychologytoday.com/intl/blog/consciousness-and-beyond/202312/a-brief-history-of-neuroscience#:~:text=Ancient%20Egyptians%20knew%20about%20neurology,fluid%20(Ehrlich%2C%202022).
+
+* https://singularityhub.com/2020/01/05/these-breakthroughs-made-the-2010s-the-decade-of-the-brain/
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* https://alleninstitute.org/news/20-years-of-impact-2023-annual-report/#:~:text=Years%20in%20the%20making%2C%20researchers,a%20vital%20global%20scientific%20resource.
 
