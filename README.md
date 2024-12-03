@@ -1,20 +1,15 @@
-# TITLE
+# Generative AI Tools are Helping to Unlock the Mysteries of the Human Brain
 
 ## Overview and Origin
 
-* Name of company
+The Allen Institute for Brain Science was founded in 2003 by Paul G. Allen and four employees with the goal of trying to understand the inner workings of the human brain along with the human immune system by mapping an entire mammalian brain. 
 
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+Paul G. Allen, being a philanthropist himself, launched the company with $100 million of his own resournces and contined to gain support from the governement like the National Science Foundation (NSF), National Institutes of Health (NIH) and other private donors through open calls and invitation.
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+The Allen Institute for Brain Science's hallmark project is the Brain Knowldge Platform (BKP), which is aimed to be the largest open-source database of brain cell data in the world. By leveraging the technology of Amazon Wed Services (AWS), the BKP will be the large data set if it's kind to compile and standaridize massive datasets of struction and function of the mamammlian brains with the hope of being able to better diagnose and treat mental and neuroligize disorders and diseases. 
+
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -47,3 +42,16 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## Resources 
+
+* https://www.youtube.com/watch?v=B3t0_Wc-Yq0
+
+* https://alleninstitute.org/allen20/#:~:text=In%202003%2C%20the%20Allen%20Institute,the%20world%20had%20never%20seen
+
+* https://alleninstitute.org/division/frontiers-group/open-calls-science-funding/#:~:text=Through%20funding%20from%20the%20Paul,traditional%20funders%20or%20by%20industry
+
+* https://portal.brain-map.org/atlases-and-data/bkp
+
+
+
